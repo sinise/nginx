@@ -12,7 +12,7 @@
 #apt-cache policy docker-engine
 #sudo apt-get install docker-engine
 #dpkg-reconfigure tzdata
-#docker pull combro2k/nginx-proxy-pagespeed
+#docker pull combro2k/nginx-proxy-pagespeed:latest
 #cd ~/
 git clone https://github.com/sinise/port.git
 git clone https://github.com/sinise/plapela.git
