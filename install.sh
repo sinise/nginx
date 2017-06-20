@@ -1,6 +1,6 @@
 #!/bin/bash
-#sudo apt-get update
-#sudo apt-get upgrade
+sudo apt-get update
+sudo apt-get upgrade
 #sudo apt-get install git
 #git config --global user.email "sebastian@lapela.dk"
 #git config --global user.name "sebastian@lapela.dk"
@@ -12,9 +12,9 @@
 #apt-cache policy docker-engine
 #sudo apt-get install docker-engine
 #dpkg-reconfigure tzdata
-#docker pull combro2k/nginx-proxy-pagespeed:latest
+docker pull combro2k/nginx-proxy-pagespeed:latest
 #cd ~/
 #git clone https://github.com/sinise/port.git
 #git clone https://github.com/sinise/plapela.git
-git clone https://github.com/sinise/st.git
+#git clone https://github.com/sinise/st.git
  
